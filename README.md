@@ -162,6 +162,5 @@ MIT License
 - [Microsoft Graph](https://learn.microsoft.com/en-us/graph/)
 - [MSAL Python](https://pypi.org/project/msal/)
 - [Streamlit](https://streamlit.io/)
-```
 
 ---
