@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Environment variables
+.env
+
+# Output files
+outputs/
+*.response.txt
+
+# Input samples (optional)
+inputs/
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
+
+# macOS / Windows / Linux
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Jupyter notebooks (if used)
+.ipynb_checkpoints/
